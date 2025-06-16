@@ -40,8 +40,8 @@ Ridge Regression predicts message length from TF-IDF features - Model evaluation
 Calculates 30-day rolling sum of negative emails - Employees with ≥4 negative emails in 30 days are flagged
 
 📊 Results
-Regression RMSE: ~118.1
 
+Regression RMSE: ~118.1
 R² Score: ~0.75
 
 High-Risk Employees (≥4 negative emails in a 30-day window) are listed in console output
