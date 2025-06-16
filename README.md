@@ -1,4 +1,5 @@
 📧 Email Sentiment Analysis & Flight Risk Prediction
+
 This project analyzes internal email data to label sentiments, identify patterns, assess employee communication trends, and predict potential flight risks using natural language processing (NLP) and machine learning.
 
 📌 Features
