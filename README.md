@@ -68,10 +68,10 @@ We utilize textual data from employee emails to label sentiment, visualize trend
 - Rankings updated monthly to detect top/bottom employees
 
 ### 7. **Visualizations**
-- ![Sentiment Distribution](visualization/sentiment_distribution.png) 
-- `monthly_sentiment_trend.png`  
-- `top_negative_employees.png`  
-- `feature_importances.png` (if model supports)
+ ![Sentiment Distribution](visualization/sentiment_distribution.png) 
+ ![Top Negative Employees](visualization/top_negative_employees.png)
+ ![Monthly Sentiment Trend](visualization/monthly_sentiment_trend.png)
+ ![Feature Importance](visualization/feature_importance.png) (if model supports)
 
 ### 8. **Interpretability**
 - Feature importance plotted for best model
